@@ -1,6 +1,6 @@
 Hi, I'm Arasy
 ---
-##### Hey there, welcome!
+**Hey there, welcome!**
 Aspiring Data Scientist from **Jakarta, Indonesia.**
 
 I’m currently working at TransTv.
