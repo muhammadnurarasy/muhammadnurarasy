@@ -1,9 +1,7 @@
-Hi, I'm Arasy
+Muhammad Nur Arasy
 Hey there, welcome!
 Aspiring Data Scientist from  Jakarta, Indonesia.
-
-Muhammad Nur Arasy
-
+---
 I’m currently working at TransTv.
 👯 I’m looking to freelance work.
 😄 Pronouns: He/His
